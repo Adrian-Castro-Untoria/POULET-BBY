@@ -1,0 +1,47 @@
+{
+  "version": "3.81.31200.0",
+  "course_id": "5gNNjalnK67",
+  "title": "Panoramique",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Ludsmdiipi",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5h9RwDsNEDA",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6SZQgvldTOZ",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5vFzgqpXXNl",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "68afosRTy4x",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
